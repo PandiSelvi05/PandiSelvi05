@@ -41,7 +41,8 @@ transform: rotateY(180deg);
   position: absolute;
   transform: rotateY(180deg);
 }
-   .main {
+
+.main {
             font-size: 32px;
             font-weight: bold;
             text-align: center;
